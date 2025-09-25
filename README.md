@@ -77,6 +77,9 @@ cd ANN-Classification-churn
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
+```
+   FOR CONDA-enviroment
+  ```
 conda activate venv\
 
 ```
@@ -122,7 +125,6 @@ Dinesh Jangir
 
  ## 🧠 ANN Architecture
 
-The following diagram illustrates the ANN used in this project:
 
 ![ANN Architecture](ann_architecture.png)
 
